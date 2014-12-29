@@ -2,9 +2,8 @@ package pt.ist.fenix.webapp;
 
 import java.sql.Connection;
 
-import net.sourceforge.fenixedu.util.ConnectionManager;
-
 import org.apache.ojb.broker.accesslayer.LookupException;
+import org.fenixedu.academic.util.ConnectionManager;
 
 import pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionSupport;
 
